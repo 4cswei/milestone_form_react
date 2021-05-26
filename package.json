@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-    "homepage": "https://github.com/4cswei/milestone_form_react",  
+    "homepage": "https://4cswei.github.io/milestone_form_react/",  
     "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
