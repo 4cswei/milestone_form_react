@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/4cswei/milestone_form_react/static/css/main.791886da.chunk.css",
+    "main.js": "/4cswei/milestone_form_react/static/js/main.76c3c4c2.chunk.js",
+    "main.js.map": "/4cswei/milestone_form_react/static/js/main.76c3c4c2.chunk.js.map",
+    "runtime-main.js": "/4cswei/milestone_form_react/static/js/runtime-main.0ec09916.js",
+    "runtime-main.js.map": "/4cswei/milestone_form_react/static/js/runtime-main.0ec09916.js.map",
+    "static/js/2.1e7d632c.chunk.js": "/4cswei/milestone_form_react/static/js/2.1e7d632c.chunk.js",
+    "static/js/2.1e7d632c.chunk.js.map": "/4cswei/milestone_form_react/static/js/2.1e7d632c.chunk.js.map",
+    "static/js/3.bebac41f.chunk.js": "/4cswei/milestone_form_react/static/js/3.bebac41f.chunk.js",
+    "static/js/3.bebac41f.chunk.js.map": "/4cswei/milestone_form_react/static/js/3.bebac41f.chunk.js.map",
+    "index.html": "/4cswei/milestone_form_react/index.html",
+    "static/css/main.791886da.chunk.css.map": "/4cswei/milestone_form_react/static/css/main.791886da.chunk.css.map",
+    "static/js/2.1e7d632c.chunk.js.LICENSE.txt": "/4cswei/milestone_form_react/static/js/2.1e7d632c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ec09916.js",
+    "static/js/2.1e7d632c.chunk.js",
+    "static/css/main.791886da.chunk.css",
+    "static/js/main.76c3c4c2.chunk.js"
+  ]
+}
